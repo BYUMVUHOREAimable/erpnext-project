@@ -1,0 +1,17 @@
+# Environment file — contains passwords, never commit this
+frappe_docker/.env
+
+# Frappe codebase clone — too large, reference from GitHub instead
+frappe_docker/frappe-codebase/
+
+# ERPNext codebase clone — reference from GitHub instead
+erpnext-codebase/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/settings.json
+*.swp
+*.swo
