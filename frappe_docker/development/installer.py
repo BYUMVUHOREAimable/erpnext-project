@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+import utils.transport
+import utils.session
 import argparse
 import os
 import subprocess
